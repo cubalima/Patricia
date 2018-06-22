@@ -1,0 +1,47 @@
+## User-specific files
+
+*.suo
+*.user
+*.sln.docstates
+*.dbmdl
+*/.vscode
+
+*.idea
+
+## Extensions and global
+*.bak
+*.diagsession
+.sonarqube/
+
+## Build
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+*.csproj.metaproj
+*.sln.metaproj
+*.sln.metaproj.tmp
+*.pubxml
+WebServiceDeploy*.xml
+TestResults/
+msbuild-tmp/
+publishTmp/
+
+## Nuget packages
+[Pp]ackages/
+
+### ncrunch files
+*.ncrunchproject
+*.ncrunchsolution
+*.crunchsolution.cache
+nCrunchTemp_*
+_NCrunch*
+
+*.nupkg
+
+*.nugetreferenceswitcher
+
+#Visual stuido 2017
+.vs
